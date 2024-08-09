@@ -567,6 +567,10 @@ const db_forums = [
             {
                 title: "@你的小蕉呀 的动态 - 哔哩哔哩",
                 url: "https://www.bilibili.com/opus/900600276318158885/"
+            },
+            {
+                title: "我的世界新中文论坛-NMCBBS(原CMCBBS中文我的世界论坛)重新开站啦！！ - @你的小蕉呀 的动态 - 哔哩哔哩",
+                url: "https://www.bilibili.com/opus/963665497552846900"
             }
         ]
     },
